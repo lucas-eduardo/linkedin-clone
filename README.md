@@ -26,7 +26,7 @@
 
 O clone do linkedin foi apresentado no **UI Clone** no canal do youtube da [Rocketseat](rc).
 
-[Link do projeto](youtube-clone).
+[Link do projeto](linkedin-clone).
 
 ---
 
@@ -75,4 +75,4 @@ $ yarn start
 [vscode]: https://code.visualstudio.com/
 [license]: https://opensource.org/licenses/MIT
 [rc]: https://rocketseat.com.br
-[youtube-clone]: https://
+[linkedin-clone]: https://uiclonelinkedin.netlify.app
